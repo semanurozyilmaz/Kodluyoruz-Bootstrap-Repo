@@ -62,10 +62,8 @@ a.dark:active {
 
 .card-img-top {
     height: 280px;
-    object-fit: cover;
     width: 100%;
 }
-
 
 .card-title {
     height: 50px;
@@ -75,11 +73,5 @@ a.dark:active {
     text-align: center;
 }
 
-.card {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 100%;
-}
 
 
