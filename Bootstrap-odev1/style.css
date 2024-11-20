@@ -1,0 +1,85 @@
+.jumbotron {
+    margin-bottom: 0px!important;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+a.navbar-brand{
+    color: #DC143C;
+}
+a.navbar-brand:hover {
+    color: #DC143C;
+}
+
+a.navbar-brand:visited {
+    color: #DC143C;
+}
+
+a.navbar-brand:active {
+    color: #DC143C;
+}
+
+a.nav-link{
+    color: #F0FFFF;
+}
+a.nav-link:hover {
+    color: #F0FFFF;
+}
+
+a.nav-link:visited {
+    color: #F0FFFF;
+}
+
+a.nav-link:active {
+    color: #F0FFFF;
+}
+
+a.dark{
+    color: #808080;
+}
+a.dark:hover {
+    color: #F0FFFF !important;
+}
+
+a.dark:visited {
+    color: #808080;
+}
+
+a.dark:active {
+    color: #F0FFFF;
+}
+
+.purple{
+    color: #9932CC;
+    text-align: center;
+}
+
+.orange{
+    color: #FF8C00;
+}
+
+.card-img-top {
+    height: 280px;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+.card-title {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+
